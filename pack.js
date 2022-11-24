@@ -15,14 +15,14 @@ Promise.allSettled(
     const c = path.join(tDir, e);
     const s = fs.statSync(c);
     if (s.isDirectory()) {
-      if (e.startsWith("Alicorn-win32") || e.startsWith("Alicorn-darwin")) {
+      if (e.startsWith("LibearXL-win32") || e.startsWith("LibearXL-darwin")) {
         return compressing.zip.compressDir(
           c,
           path.join(tDir, "compressed", e + ".zip"),
           {}
         );
       }
-      if (e.startsWith("Alicorn-linux")) {
+      if (e.startsWith("LibearXL-linux")) {
         return compressing.tgz.compressDir(
           c,
           path.join(tDir, "compressed", e + ".tar.gz")

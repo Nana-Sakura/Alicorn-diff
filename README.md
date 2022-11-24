@@ -1,31 +1,12 @@
-# Alicorn Launcher JS Edition
+# LibearXL
 
 [中文 README](./README_ZH.md)
-
-## IMPORTANT
-
-As I, the developer, decided not to contribute to the Minecraft communities, this project **won't receive major updates** since Core 50 (that's why I call it Sunset).
-
-If servere security vulnerbilities are found in the future, patches might still be available. However, generally, this project is now discontinued.
-
-It doesn't mean you have to switch to another launcher, but if you wish to, we recommand [HMCL](https://github.com/huanghongxun/HMCL), it's a free software (as in freedom) and is still being actively maintained.
-
----
-
-A third party Minecraft launcher, with high performance and freedom.
-
-![.](https://img.shields.io/badge/Alicorn-is%20cute!-df307f)
-![.](https://github.com/Andy-K-Sparklight/Alicorn/actions/workflows/codeql-analysis.yml/badge.svg)
-![.](https://github.com/Andy-K-Sparklight/Alicorn/actions/workflows/node.js.yml/badge.svg)
-![.](https://deepscan.io/api/teams/16407/projects/19670/branches/514338/badge/grade.svg)
-![.](https://img.shields.io/github/repo-size/Andy-K-Sparklight/Alicorn)
-![.](https://img.shields.io/github/license/Andy-K-Sparklight/Alicorn)
 
 ## Why Yet Another Launcher?
 
 It's simple: I've been using different launchers and none of them can meet my requirements.
 
-And that's why we develop Alicorn.
+And that's why we develop LibearXL.
 
 ## Why Electron?
 
@@ -55,7 +36,7 @@ There's no need to consider size. After all, nothing is bigger than your OS ;)
 
 8. Line Feed only.
 
-9. Try to make Alicorn looks the same in different platforms, but not definitely.
+9. Try to make LibearXL looks the same in different platforms, but not definitely.
 
 10. No SaaS.
 
@@ -63,7 +44,7 @@ There's no need to consider size. After all, nothing is bigger than your OS ;)
 
 #### Build Executable
 
-To build Alicorn, you'll need:
+To build LibearXL, you'll need:
 
 - [Node.js](https://nodejs.org)
 
@@ -72,7 +53,7 @@ To build Alicorn, you'll need:
 - Clone the repository:
   
   ```shell
-  git clone https://github.com/Andy-K-Sparklight/Alicorn.git --depth=1
+  git clone https://github.com/neila-a/LibearXL.git --depth=1
   ```
 
 - Install dependencies:
@@ -84,7 +65,7 @@ To build Alicorn, you'll need:
 - Run build:
   
   ```shell
-  yarn make
+  make
   ```
   
   This will generate binaries and put them under `out`, including Windows x64, Windows ia32, GNU/Linux x64, GNU/Linux arm64 ~~and macOS x64~~. This will also generate corresponding archives.

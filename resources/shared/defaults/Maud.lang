@@ -328,7 +328,7 @@ Minecraft 没正常退出。
 
 请使用 Fabric。
 
-Alicorn 是自由软件。
+LibearXL 是自由软件。
 
 我喜欢 Node.js。
 
@@ -738,7 +738,7 @@ Client VM 不适合 Minecraft。
 
 # Options.clean-storage.desc
 
-摧毁 Alicorn 存储的一切数据
+摧毁 LibearXL 存储的一切数据
 
 # Options.cx.shared-root.desc
 
@@ -746,7 +746,7 @@ Client VM 不适合 Minecraft。
 
 # Options.dev.experimental.desc
 
-开启 Alicorn 默认没有开启的特性 - 可能有危险。
+开启 LibearXL 默认没有开启的特性 - 可能有危险。
 
 # Options.interactive.i-have-a-crush-on-al.desc
 
@@ -786,11 +786,11 @@ Maud 2 不支持此功能，但其他助理可能支持。
 
 # Options.web.global-proxy.desc
 
-设置用于 Alicorn 附属浏览器的代理，包括 Microsoft 帐户登录
+设置用于 LibearXL 附属浏览器的代理，包括 Microsoft 帐户登录
 
 # Options.updator.use-update.desc
 
-启用来自 Alicorn 的自动更新，以及时获取新功能
+启用来自 LibearXL 的自动更新，以及时获取新功能
 
 # Options.download.concurrent.chunk-size.desc
 
@@ -898,7 +898,7 @@ Pff 的请求等待时间
 
 # UtilitiesIndex.Description
 
-这里是 Alicorn 工具库。
+这里是 LibearXL 工具库。
 
 # UtilitiesIndex.Open
 

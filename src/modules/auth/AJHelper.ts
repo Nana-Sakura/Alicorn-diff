@@ -9,47 +9,47 @@ Authlib Injector is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE 3.0 (ak
 It's license is compatible with ours, since we use GPL-3.0.
 For details, please see https://github.com/yushijinhun/authlib-injector/blob/develop/LICENSE
 
-A copy of authlib-injector.ald will be saved to the root dir of alicorn data.
+A copy of authlib-injector.ald will be saved to the root dir of LibearXL data.
 */
 
 const AJ_FILE_BASE = "authlib-injector.ald";
 
 export async function prepareAJ(): Promise<void> {
-  await saveDefaultData(AJ_FILE_BASE);
+    await saveDefaultData(AJ_FILE_BASE);
 }
 
 export function whereAJ(): string {
-  return getActualDataPath(AJ_FILE_BASE);
+    return getActualDataPath(AJ_FILE_BASE);
 }
 
 export async function prefetchData(authServer: string): Promise<string> {
-  try {
-    return toBase64(
-      await (
-        await fetch(authServer, {
-          method: "GET",
-          credentials: "omit",
-        })
-      ).text()
-    );
-  } catch {
-    return "";
-  }
+    try {
+        return toBase64(
+            await (
+                await fetch(authServer, {
+                    method: "GET",
+                    credentials: "omit",
+                })
+            ).text()
+        );
+    } catch {
+        return "";
+    }
 }
 
 export async function authAddrCorrect(source: string): Promise<string> {
-  try {
-    const res = await fetch(source);
-    if (res.ok) {
-      const ali =
-        res.headers.get("x-authlib-injector-api-location") ||
-        res.headers.get("X-Authlib-Injector-API-Location");
-      if (ali) {
-        return ali;
-      }
+    try {
+        const res = await fetch(source);
+        if (res.ok) {
+            const ali =
+                res.headers.get("x-authlib-injector-api-location") ||
+                res.headers.get("X-Authlib-Injector-API-Location");
+            if (ali) {
+                return ali;
+            }
+        }
+        return source;
+    } catch (e) {
+        return source;
     }
-    return source;
-  } catch (e) {
-    return source;
-  }
 }

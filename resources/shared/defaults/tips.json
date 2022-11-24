@@ -5,7 +5,7 @@
       "en": "Auto Fabric/Forge Version Choose"
     },
     "text": {
-      "zh": "无须担心版本错误，Alicorn 能为你搞定这些！",
+      "zh": "无须担心版本错误，LibearXL 能为你搞定这些！",
       "en": "No need to worry about version! I'll do it!"
     },
     "img": "https://img.gejiba.com/images/e8e64aa83759da961d9fe72d7723fefe.png",
@@ -32,7 +32,7 @@
   {
     "name": { "zh": "原始而又全新的联机方式", "en": "Play With Your Friends" },
     "text": {
-      "zh": "打开 Minecraft 并单击「对局域网开放」，然后再去看看 Alicorn 吧！",
+      "zh": "打开 Minecraft 并单击「对局域网开放」，然后再去看看 LibearXL 吧！",
       "en": "Simply open your world to LAN and something magical will happen!"
     },
     "img": "https://img.gejiba.com/images/74b3eee6fcfa8d4e9dd94c267aebe03e.png",
@@ -59,7 +59,7 @@
   {
     "name": { "zh": "自动 Java 选择", "en": "Auto Java Select" },
     "text": {
-      "zh": "不必手动选取 Java，Alicorn 将自动选择。",
+      "zh": "不必手动选取 Java，LibearXL 将自动选择。",
       "en": "No Java problem any more! Let me choose it for you."
     },
     "img": "https://img.gejiba.com/images/0d5a1796c9a83738eda8cef5bee3a15e.png",
@@ -77,8 +77,8 @@
   {
     "name": { "zh": "使用整合包", "en": "Use Modpack" },
     "text": {
-      "zh": "将整合包丢进 Alicorn 试试？（Alicorn 会自动为你填写信息哦！）",
-      "en": "Try dropping a modpack into Alicorn?"
+      "zh": "将整合包丢进 LibearXL 试试？（LibearXL 会自动为你填写信息哦！）",
+      "en": "Try dropping a modpack into LibearXL?"
     },
     "img": "https://img.gejiba.com/images/963679a29650d876a87ff0042f84031d.png",
     "rel": ""
@@ -95,8 +95,8 @@
   {
     "name": { "zh": "切换主题", "en": "Change Theme" },
     "text": {
-      "zh": "在「选项」里给 Alicorn 重新喷漆！（现在加入了更多的颜色！）",
-      "en": "You know what? You can paint Alicorn different colors!"
+      "zh": "在「选项」里给 LibearXL 重新喷漆！（现在加入了更多的颜色！）",
+      "en": "You know what? You can paint LibearXL different colors!"
     },
     "img": "https://img.gejiba.com/images/000dda277e6c2834edd75d2265a05199.png",
     "rel": ""

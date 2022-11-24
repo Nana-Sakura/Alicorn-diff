@@ -40,7 +40,7 @@ Java Selector
 
 # Statistics
 
-Alicorn Statistics
+LibearXL Statistics
 
 # Options
 
@@ -78,9 +78,9 @@ A Brand New Me!
 
 STT Control Panel
 
-# Boticorn
+# Botbear
 
-Alicorn Assistant
+LibearXL Assistant
 
 # System.EPERM
 
@@ -710,7 +710,7 @@ Spawning Mobs...
 
 # VersionView.Name
 
-Alicorn Launcher: JE {AppVersion} #{UpdatorVersion}
+LibearXL Launcher: JE {AppVersion} #{UpdatorVersion}
 
 # VersionView.Modules
 
@@ -738,7 +738,7 @@ This Electron is too old... Have an update?
 
 # VersionView.Description
 
-@HTML<b>Thank you for using Alicorn Launcher!</b> <a href="javascript:ashow('https://alc.pages.dev')">Website</a> <a href="javascript:ashow('https://github.com/Andy-K-Sparklight/Alicorn')">Source</a> <a href="javascript:ashow('https://www.gnu.org/licenses/gpl-3.0.html')">GPL-3.0 License</a>
+@HTML<b>Thank you for using LibearXL Launcher!</b> <a href="javascript:ashow('https://alc.pages.dev')">Website</a> <a href="javascript:ashow('https://github.com/Andy-K-Sparklight/LibearXL')">Source</a> <a href="javascript:ashow('https://www.gnu.org/licenses/gpl-3.0.html')">GPL-3.0 License</a>
 
 # VersionView.ClickToSeeNext
 
@@ -746,7 +746,7 @@ Click To See More
 
 # VersionView.Copyright
 
-The following are translation of the original text and should not be considered as an alternative. \n\nAlicorn Launcher is a free software. It's licensed under the GNU GENERAL PUBLIC LICENSE (Version 3.0 or later).\nCopyright (C) 2021-2022 Annie K Rarity Sparklight\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\nImages in Alicorn are not a part of Alicorn. They are from Minecraft Wiki and are licensed under the CC BY-NC-SA 3.0 License.
+The following are translation of the original text and should not be considered as an alternative. \n\nLibearXL Launcher is a free software. It's licensed under the GNU GENERAL PUBLIC LICENSE (Version 3.0 or later).\nCopyright (C) 2021-2022 Annie K Rarity Sparklight\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\nImages in LibearXL are not a part of LibearXL. They are from Minecraft Wiki and are licensed under the CC BY-NC-SA 3.0 License.
 
 # VersionView.Privacy
 
@@ -754,7 +754,7 @@ The following are translation of the original text and should not be considered 
 
 # VersionView.Credit
 
-@HTMLAlicorn consists of more than 500 NPM packages, including Material UI, React, Electron, undici, crypto-js, ajv and more.\nWe also want to thank VSCodium and Vim.\n\nWelcome to <a href="javascript:ashow('https://alc.pages.dev')">Alicorn Launcher Official Website</a>!
+@HTMLLibearXL consists of more than 500 NPM packages, including Material UI, React, Electron, undici, crypto-js, ajv and more.\nWe also want to thank VSCodium and Vim.\n\nWelcome to <a href="javascript:ashow('https://alc.pages.dev')">LibearXL Launcher Official Website</a>!
 
 # VersionView.FreeSoftwareClaim
 
@@ -762,7 +762,7 @@ No (or least) proprietary components.
 
 # VersionView.SuperCowPower
 
-This Alicorn has super cow powers.
+This LibearXL has super cow powers.
 
 # ContainerManager.Size
 
@@ -1348,13 +1348,13 @@ ReadyBoom ^
 
 Make launch faster.
 
-# Options.alicorn-ping.title
+# Options.LibearXL-ping.title
 
-Alicorn Ping ^
+LibearXL Ping ^
 
-# Options.alicorn-ping.desc
+# Options.LibearXL-ping.desc
 
-Send completely anonymous pings to Alicorn server so that we can know how many users do we have.
+Send completely anonymous pings to LibearXL server so that we can know how many users do we have.
 
 # Options.features.echo.title
 
@@ -1394,7 +1394,7 @@ Tips Of Today
 
 # Options.features.tips-of-today.desc
 
-Show a tip when opening Alicorn.
+Show a tip when opening LibearXL.
 
 # Options.features.sword.title
 
@@ -1418,7 +1418,7 @@ Open When Login ^
 
 # Options.auto-launch.desc
 
-Auto open Alicorn when you login into your OS.
+Auto open LibearXL when you login into your OS.
 
 # Options.theme.background.title
 
@@ -1426,7 +1426,7 @@ Background Image ^
 
 # Options.theme.background.desc
 
-Choose background image, of disable them.\nNot provided by Alicorn, so we are not able to know what the API is displaying.
+Choose background image, of disable them.\nNot provided by LibearXL, so we are not able to know what the API is displaying.
 
 # Options.theme.background.ACG
 
@@ -1634,7 +1634,7 @@ Update From
 
 # Options.updator.url.desc
 
-Next time, Alicorn will try to update from this url.
+Next time, LibearXL will try to update from this url.
 
 # Options.frame.drag-impl.title
 
@@ -1690,11 +1690,11 @@ Animate when navigating.
 
 # Options.assistant.PonyCN
 
-Alicorn 默认（小马语/中国）
+LibearXL 默认（小马语/中国）
 
 # Options.assistant.PonyTW
 
-Alicorn 默認（繁體中文/中國）
+LibearXL 默認（繁體中文/中國）
 
 # Options.assistant.Maud
 
@@ -1706,7 +1706,7 @@ Maud 2（小马语/中国）
 
 # Options.assistant.Equish
 
-Alicorn i18n (Equish/Equestria)
+LibearXL i18n (Equish/Equestria)
 
 # Options.jvm.extra-args.title
 
@@ -1778,7 +1778,7 @@ Allocated Memory
 
 # Options.memory.desc
 
-How much memory should be allocated for Minecraft? (In MiB) - Set it to 0 to let Alicorn choose.
+How much memory should be allocated for Minecraft? (In MiB) - Set it to 0 to let LibearXL choose.
 
 # Options.gw-size.title
 
@@ -1802,7 +1802,7 @@ Clear Storage ^
 
 # Options.clean-storage.desc
 
-Remove all data Alicorn stored, including usage counts, but not including data in containers. (That's not a part of Alicorn, right?)
+Remove all data LibearXL stored, including usage counts, but not including data in containers. (That's not a part of LibearXL, right?)
 
 # Options.cx.shared-root.title
 
@@ -1818,7 +1818,7 @@ Home Page
 
 # Options.startup-page.url.desc
 
-What page should I show when you open Alicorn?
+What page should I show when you open LibearXL?
 
 # Options.startup-page.name.title
 
@@ -1900,17 +1900,17 @@ Download Mirror
 
 @HTMLSelect a mirror for downloading.\nMCBBS Mirror and BMCLAPI Mirror is provided by BMCLAPI and MCBBS together.
 
-# Options.download.mirror.alicorn-bmclapi-nonfree
+# Options.download.mirror.LibearXL-bmclapi-nonfree
 
-Alicorn/BMCLAPI Mirror Group
+LibearXL/BMCLAPI Mirror Group
 
-# Options.download.mirror.alicorn
+# Options.download.mirror.LibearXL
 
-Alicorn Mirror (Manifests Only)
+LibearXL Mirror (Manifests Only)
 
-# Options.download.mirror.alicorn-mcbbs-nonfree
+# Options.download.mirror.LibearXL-mcbbs-nonfree
 
-Alicorn/MCBBS Mirror Group
+LibearXL/MCBBS Mirror Group
 
 # Options.download.mirror.none
 
@@ -2130,7 +2130,7 @@ Boss Key ^
 
 # Options.bosskey.desc
 
-Set a keyboard shortcut here. When your boss is around, press this to hide Alicorn and quit Minecraft.\n(Format e.g. Alt+B)
+Set a keyboard shortcut here. When your boss is around, press this to hide LibearXL and quit Minecraft.\n(Format e.g. Alt+B)
 
 # Options.nvidia-prime.title
 
@@ -2331,11 +2331,11 @@ Install Cores
 
 # Welcome.Tips
 
-ASC stands for Alicorn Shared Container!
+ASC stands for LibearXL Shared Container!
 A container is a .minecraft folder, but not just a folder!
 There are no difference between driving with both eyes closed and asking for help without crash reports!
 The BBCode generated has already been well formatted.
-Alicorn can have updates at any time!
+LibearXL can have updates at any time!
 NEVER EVER enter ANY sensitive information in ANY thiry party server!
 DO NOT forcefully exit unless your can do nothing else.
 Our ultimate goal is digital freedom for all, a world without proprietary software.
@@ -2474,7 +2474,7 @@ Testing
 
 # UtilitiesIndex.Description
 
-Welcome To Alicorn Utilities!
+Welcome To LibearXL Utilities!
 
 # UtilitiesIndex.Item
 
@@ -2540,11 +2540,11 @@ Microsoft Authenticate Server
 
 You need it to auth your Microsoft account.
 
-# Utilities.NetCheck.SiteName.AlicornUpdate
+# Utilities.NetCheck.SiteName.LibearXLUpdate
 
-Alicorn Updates
+LibearXL Updates
 
-# Utilities.NetCheck.SiteDesc.AlicornUpdate
+# Utilities.NetCheck.SiteDesc.LibearXLUpdate
 
 I need it to update myself.
 
@@ -2746,7 +2746,7 @@ Join in our utopia
 # Utilities.CutieConnect.AvailablePrefix
 
 cutie-connect-
-alicorn-game-
+LibearXL-game-
 starlight-
 love-al-
 support-fsf-
@@ -3089,7 +3089,7 @@ Java info upgraded.
 
 # FirstRun.Preparing
 
-This is thr first time you use Alicorn. We're doing some initialize works...
+This is thr first time you use LibearXL. We're doing some initialize works...
 
 # FirstRun.FetchingJava
 
@@ -3113,7 +3113,7 @@ END
 
 # Instruction.Welcome.0
 
-Welcome to Alicorn Launcher! I'm the AI of <ThatRarityEG>, the developer.
+Welcome to LibearXL Launcher! I'm the AI of <ThatRarityEG>, the developer.
 
 # Instruction.Welcome.1
  
@@ -3383,49 +3383,49 @@ Encoding
 
 In some platforms encodings cannot be configured automatically. In this case you need to specify one.
 
-# Boticorn.Desc
+# Botbear.Desc
 
-Boticorn (the assistant of Alicorn) can do some really cool things! ...In the future, though. However, You can try some of its features now.
+Botbear (the assistant of LibearXL) can do some really cool things! ...In the future, though. However, You can try some of its features now.
 
-# Boticorn.Enabled
+# Botbear.Enabled
 
-Boticorn enabled.
+Botbear enabled.
 
-# Boticorn.Disabled
+# Botbear.Disabled
 
-Boticorn is installed, but not enabled.
+Botbear is installed, but not enabled.
 
-# Boticorn.NotInstalled
+# Botbear.NotInstalled
 
-Boticorn is not installed.
+Botbear is not installed.
 
-# Boticorn.InstallOK
+# Botbear.InstallOK
 
-Boticorn installed!
+Botbear installed!
 
-# Boticorn.FailedToInstall
+# Botbear.FailedToInstall
 
-Failed to install Boticorn. Try again?
+Failed to install Botbear. Try again?
 
-# Boticorn.Installing
+# Botbear.Installing
 
-Installing Boticorn, this won't take long...
+Installing Botbear, this won't take long...
 
-# Boticorn.Enable
+# Botbear.Enable
 
-Enable Boticorn
+Enable Botbear
 
-# Boticorn.Disable
+# Botbear.Disable
 
-Disable Boticorn
+Disable Botbear
 
-# Boticorn.Install
+# Botbear.Install
 
-Install Boticorn
+Install Botbear
 
-# Boticorn.Hint
+# Botbear.Hint
 
-Hint: Boticorn is only available through Cadance. More interfaces will be available soon.
+Hint: Botbear is only available through Cadance. More interfaces will be available soon.
 
 # EOE.Thanks
 
@@ -3481,11 +3481,11 @@ Close
 
 # TipsOfToday.Desc
 
-Alicorn Tips Of Today!
+LibearXL Tips Of Today!
 
 # DMCenter.Hint
 
-Drop Display Manager into Alicorn to add it to thus list.\nDO NOT add a DM you do not trust! This can be very DANGEROUS!
+Drop Display Manager into LibearXL to add it to thus list.\nDO NOT add a DM you do not trust! This can be very DANGEROUS!
 
 # DMCenter.Active
 
@@ -3509,8 +3509,8 @@ Send
 
 # Echo.Format
 
-{Text} -- Alicorn Echo
+{Text} -- LibearXL Echo
 
 # UpdateHint.Desc
 
-Alicorn has updated to the latest version.\n"One step closer to your victory!"\nA new adventure starts from here!\nThank you for choosing Alicorn!
+LibearXL has updated to the latest version.\n"One step closer to your victory!"\nA new adventure starts from here!\nThank you for choosing LibearXL!

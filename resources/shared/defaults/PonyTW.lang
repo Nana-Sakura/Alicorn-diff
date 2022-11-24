@@ -40,7 +40,7 @@ Java 選擇器
 
 # Statistics
 
-Alicorn 回憶錄
+LibearXL 回憶錄
 
 # Options
 
@@ -78,9 +78,9 @@ Pff 軟件安裝器
 
 語音控制面板
 
-# Boticorn
+# Botbear
 
-Alicorn 助理
+LibearXL 助理
 
 # DMCenter
 
@@ -88,7 +88,7 @@ Alicorn 助理
 
 # System.EPERM
 
-Alicorn 無法讀/寫 {Target}，請檢查此目錄的權限，相關操作已經中止。
+LibearXL 無法讀/寫 {Target}，請檢查此目錄的權限，相關操作已經中止。
 
 # System.Offline
 
@@ -228,7 +228,7 @@ Alicorn 無法讀/寫 {Target}，請檢查此目錄的權限，相關操作已�
 
 ['{Platform}'==='win32'||'{Platform}'==='darwin']（跺蹄蹄）這就是使用專有軟件帶來的後果！
 
-['{Platform}'==='win32'||'{Platform}'==='darwin']為什麼不試試使用 GNU/Linux 呢？Alicorn 的功能在那裡都進行過測試！
+['{Platform}'==='win32'||'{Platform}'==='darwin']為什麼不試試使用 GNU/Linux 呢？LibearXL 的功能在那裡都進行過測試！
 
 # Operating.PleaseWaitDetail
 
@@ -674,7 +674,7 @@ Minecraft 實例（看上去）沒有正常退出，你想要對本次啟動進�
 
 不是什麼都能通過重啟解決，觀察者也不能看透每個世界。
 
-本小馬會一直陪着你的……只要你不卸掉 Alicorn 的話！
+本小馬會一直陪着你的……只要你不卸掉 LibearXL 的話！
 
 天上的飛機只與你相隔十千米，出門訪一位舊友，不如抬頭望一眼陌生人。
 
@@ -700,13 +700,13 @@ Minecraft 實例（看上去）沒有正常退出，你想要對本次啟動進�
 
 {UserName} 可愛，我和 {UserName} 貼貼～
 
-Alicorn 是自由軟件！你完全可以將她用於任何用途！
+LibearXL 是自由軟件！你完全可以將她用於任何用途！
 
 我？我不過是個有點思想的 Shell，只能傳達你的命令而已啦。
 
 感謝 Node.js，現在驗證你的資源文件又快又準確。
 
-就算你把併發數提升到 1000 個併發，Alicorn 也沒有絲毫壓力 —— 有壓力的是你的電腦
+就算你把併發數提升到 1000 個併發，LibearXL 也沒有絲毫壓力 —— 有壓力的是你的電腦
 
 請說出新人常用的啟動器。不太確定？你確定嗎？
 
@@ -750,7 +750,7 @@ Minecraft 和我的世界真的不是一個東西！
 
 有 3587 種熱帶魚！
 
-Alicorn 每周都有新版本！
+LibearXL 每周都有新版本！
 
 「能用 JS 改寫的，終將用 JS 改寫」—— Jeff Atwood
 
@@ -802,7 +802,7 @@ Alicorn 每周都有新版本！
 
 # VersionView.Name
 
-Alicorn Launcher: JE {AppVersion} #{UpdatorVersion}
+LibearXL Launcher: JE {AppVersion} #{UpdatorVersion}
 
 # VersionView.Modules
 
@@ -818,19 +818,19 @@ Alicorn Launcher: JE {AppVersion} #{UpdatorVersion}
 
 # VersionView.Electron.Perfect
 
-這個 Electron 經過蹄工測試，可以與當前版本的 Alicorn 完全兼容，現在就開始暢玩吧！
+這個 Electron 經過蹄工測試，可以與當前版本的 LibearXL 完全兼容，現在就開始暢玩吧！
 
 # VersionView.Electron.OK
 
-這個 Electron 和編譯版本很接近，應當與當前版本的 Alicorn 兼容，通常不會有影響運行的問題。
+這個 Electron 和編譯版本很接近，應當與當前版本的 LibearXL 兼容，通常不會有影響運行的問題。
 
 # VersionView.Electron.Attention
 
-@HTML這個 Electron 太舊啦！Alicorn <b>可能無法正常運行</b>，非常建議重新下載 Alicorn，你的設置和數據會保留。
+@HTML這個 Electron 太舊啦！LibearXL <b>可能無法正常運行</b>，非常建議重新下載 LibearXL，你的設置和數據會保留。
 
 # VersionView.Description
 
-@HTML<b>歡迎使用 Alicorn 啟動器！</b> <a href="javascript:ashow('https://alc.pages.dev')">前往官方網站</a> <a href="javascript:ashow('https://github.com/Andy-K-Sparklight/Alicorn')">查看源代碼</a> <a href="javascript:ashow('https://www.gnu.org/licenses/gpl-3.0.html')">查看 GPL 3.0 許可證</a>
+@HTML<b>歡迎使用 LibearXL 啟動器！</b> <a href="javascript:ashow('https://alc.pages.dev')">前往官方網站</a> <a href="javascript:ashow('https://github.com/Andy-K-Sparklight/LibearXL')">查看源代碼</a> <a href="javascript:ashow('https://www.gnu.org/licenses/gpl-3.0.html')">查看 GPL 3.0 許可證</a>
 
 # VersionView.ClickToSeeNext
 
@@ -838,23 +838,23 @@ Alicorn Launcher: JE {AppVersion} #{UpdatorVersion}
 
 # VersionView.Copyright
 
-以下內容為著作權聲明的簡體中文翻譯，不可被視為原文本的替代。Alicorn 的開發人員擁有最終解釋權。\n\nAlicorn 啟動器是自由軟件，複製、修改和重新分發等行為應遵循 GNU GENERAL PUBLIC LICENSE Version 3.0 許可證（或以後的版本）。\nCopyright (C) 2021-2022 Annie K Rarity Sparklight\n\n該程序是自由軟件：你可以根據自由軟件基金會發布的 GNU 通用公共許可證（第三版或以後）的條款重新分發和/或修改它。\n分發此程序是希望它有用，但不作任何保證；甚至沒有對適銷性或針對特定目的的適用性的暗示保證。有關更多詳細信息，請參閱 GNU 通用公共許可證（第三版或以後）原文。\nAlicorn 中所引用的 Minecraft 相關圖片等內容不是 Alicorn 的一部分，它們來自 Minecraft Wiki 並以 知識共享 署名-非商業性使用-相同方式分享 3.0（CC BY-NC-SA 3.0）協議授權，不適用 Alicorn 的 GNU 通用公共許可證（第三版或以後）。
+以下內容為著作權聲明的簡體中文翻譯，不可被視為原文本的替代。LibearXL 的開發人員擁有最終解釋權。\n\nLibearXL 啟動器是自由軟件，複製、修改和重新分發等行為應遵循 GNU GENERAL PUBLIC LICENSE Version 3.0 許可證（或以後的版本）。\nCopyright (C) 2021-2022 Annie K Rarity Sparklight\n\n該程序是自由軟件：你可以根據自由軟件基金會發布的 GNU 通用公共許可證（第三版或以後）的條款重新分發和/或修改它。\n分發此程序是希望它有用，但不作任何保證；甚至沒有對適銷性或針對特定目的的適用性的暗示保證。有關更多詳細信息，請參閱 GNU 通用公共許可證（第三版或以後）原文。\nLibearXL 中所引用的 Minecraft 相關圖片等內容不是 LibearXL 的一部分，它們來自 Minecraft Wiki 並以 知識共享 署名-非商業性使用-相同方式分享 3.0（CC BY-NC-SA 3.0）協議授權，不適用 LibearXL 的 GNU 通用公共許可證（第三版或以後）。
 
 # VersionView.Privacy
 
-@HTML有關隱私，Alicorn 的處理方法滿足：<b><ul><li>我們始終會詢問你的意見，除非我們認為這是在干擾你的使用</li><li>數據只保存在本地，除身份驗證等必需的信息外均不上傳</li><li>可以隨時通過重置 Alicorn 來清除已保存的數據</li><li>不保存你的密碼，也不向你詢問有關你個人的真實信息</li></ul></b>
+@HTML有關隱私，LibearXL 的處理方法滿足：<b><ul><li>我們始終會詢問你的意見，除非我們認為這是在干擾你的使用</li><li>數據只保存在本地，除身份驗證等必需的信息外均不上傳</li><li>可以隨時通過重置 LibearXL 來清除已保存的數據</li><li>不保存你的密碼，也不向你詢問有關你個人的真實信息</li></ul></b>
 
 # VersionView.Credit
 
-@HTMLAlicorn 的創建離不開超過 500 個 NPM 可重用軟件包，其中包括 Material UI、React、Electron 這些框架軟件包，undici、crypto-js、ajv 這些效用軟件包，Webpack、TypeScript 這些構建用軟件包，以及許多許多被大量依賴的基礎軟件包。\nAlicorn 還要感謝包括 VSCodium 和 Vim 在內的開發工具，因為有它們，Alicorn 的開發效率成倍地提升。\n\n你是否想支持 Alicorn？或者只是想了解更多內容？歡迎訪問 <a href="javascript:ashow('https://alc.pages.dev')">Alicorn Launcher 官方網站</a>
+@HTMLLibearXL 的創建離不開超過 500 個 NPM 可重用軟件包，其中包括 Material UI、React、Electron 這些框架軟件包，undici、crypto-js、ajv 這些效用軟件包，Webpack、TypeScript 這些構建用軟件包，以及許多許多被大量依賴的基礎軟件包。\nLibearXL 還要感謝包括 VSCodium 和 Vim 在內的開發工具，因為有它們，LibearXL 的開發效率成倍地提升。\n\n你是否想支持 LibearXL？或者只是想了解更多內容？歡迎訪問 <a href="javascript:ashow('https://alc.pages.dev')">LibearXL Launcher 官方網站</a>
 
 # VersionView.FreeSoftwareClaim
 
-我們提倡軟件自由，Alicorn 不會依賴非自由的軟件包，因此，如果你發現我們沒有支持某些常見的功能，請先查看用於實現它們的相關組件的許可。
+我們提倡軟件自由，LibearXL 不會依賴非自由的軟件包，因此，如果你發現我們沒有支持某些常見的功能，請先查看用於實現它們的相關組件的許可。
 
 # VersionView.SuperCowPower
 
-本 Alicorn 具有超級牛力。
+本 LibearXL 具有超級牛力。
 
 # ContainerManager.Size
 
@@ -1121,7 +1121,7 @@ Pff 正安裝 Mod……
 
 # InstallCore.InstallIrisInstr
 
-@HTML<b>高清修復</b>是指對着色器……算了，說那麼多也沒什麼用，總之，會讓你的 Minecraft 看上去非常漂亮！\nAlicorn 為你準備了 Iris，不僅支持絕大多數頂級光影，還與幾乎所有的 Mod 兼容（包括 Sodium）！\n你需要<b>先改裝一個已有的核心為 Fabric</b>，隨後便可在這裡選擇並安裝。
+@HTML<b>高清修復</b>是指對着色器……算了，說那麼多也沒什麼用，總之，會讓你的 Minecraft 看上去非常漂亮！\nLibearXL 為你準備了 Iris，不僅支持絕大多數頂級光影，還與幾乎所有的 Mod 兼容（包括 Sodium）！\n你需要<b>先改裝一個已有的核心為 Fabric</b>，隨後便可在這裡選擇並安裝。
 
 # InstallCore.IrisBaseVersion
 
@@ -1337,7 +1337,7 @@ Minecraft 在 Client Java VM 上可能無法發揮出最好性能，建議安裝
 
 # JavaSelector.WarnNonFree
 
-這個 JRE 存在許可問題！Alicorn 建議你使用自由的 OpenJDK 運行時以獲得更好的性能，同時避免潛在的惡意軟件。
+這個 JRE 存在許可問題！LibearXL 建議你使用自由的 OpenJDK 運行時以獲得更好的性能，同時避免潛在的惡意軟件。
 
 # Options.Select
 
@@ -1349,7 +1349,7 @@ Minecraft 在 Client Java VM 上可能無法發揮出最好性能，建議安裝
 
 # Options.Hint
 
-@HTML<b>不要胡亂設置</b> - Alicorn 的默認值即是建議值，如果你不明確知道一個設置項的作用，請<b>不要</b>修改它。\n帶 ^ 的項目在重新加載啟動器后才能生效。帶 * 的項目是開發人員選項，隨意更改可能導致重大問題。
+@HTML<b>不要胡亂設置</b> - LibearXL 的默認值即是建議值，如果你不明確知道一個設置項的作用，請<b>不要</b>修改它。\n帶 ^ 的項目在重新加載啟動器后才能生效。帶 * 的項目是開發人員選項，隨意更改可能導致重大問題。
 
 # Options.Enabled
 
@@ -1393,7 +1393,7 @@ AL 特殊能力
 
 # Options.theme.zoom-factor.desc
 
-如果顯示不正常，可於此修改 Alicorn 內容的縮放比例
+如果顯示不正常，可於此修改 LibearXL 內容的縮放比例
 
 # Options.download.tls.keep-alive.title
 
@@ -1443,11 +1443,11 @@ ReadyBoom 預熱 ^
 
 自動準備你經常遊玩的核心所需要的資源，大幅提升啟動速度
 
-# Options.alicorn-ping.title
+# Options.LibearXL-ping.title
 
-Alicorn Ping ^
+LibearXL Ping ^
 
-# Options.alicorn-ping.desc
+# Options.LibearXL-ping.desc
 
 這種匿名的 Ping 可以讓 ThatRarityEG 估計活躍用戶數
 
@@ -1457,7 +1457,7 @@ Alicorn Ping ^
 
 # Options.features.echo.desc
 
-發送和收取來自 Alicorn 的漂流瓶，看看世界上的另個你在做些什麼～\n如果事情看上去不對，請關閉此功能並向我們提供反饋。這既有利於你，也有利於地球。
+發送和收取來自 LibearXL 的漂流瓶，看看世界上的另個你在做些什麼～\n如果事情看上去不對，請關閉此功能並向我們提供反饋。這既有利於你，也有利於地球。
 
 # Options.features.local-skin.title
 
@@ -1473,7 +1473,7 @@ Curseforge ++
 
 # Options.pff.cursepp2.desc
 
-使用 Alicorn Magic 回到過去調用 Curseforge 的 API，這樣 Alicorn 就不用修改代碼，只需要建造時間機器（認真
+使用 LibearXL Magic 回到過去調用 Curseforge 的 API，這樣 LibearXL 就不用修改代碼，只需要建造時間機器（認真
 
 # Options.pff.cursepp-cluster-size.title
 
@@ -1485,11 +1485,11 @@ Curseforge ++ 同時進行幾個任務？請不要將它設置得太高，每台
 
 # Options.features.tips-of-today.title
 
-Alicorn 使用技巧
+LibearXL 使用技巧
 
 # Options.features.tips-of-today.desc
 
-啟動 Alicorn 時顯示一條使用技巧提示
+啟動 LibearXL 時顯示一條使用技巧提示
 
 # Options.features.sword.title
 
@@ -1513,7 +1513,7 @@ Skin View 3D 皮膚顯示
 
 # Options.auto-launch.desc
 
-在電腦啟動時，省下幾次點擊，讓 Alicorn 主動和你打聲招呼
+在電腦啟動時，省下幾次點擊，讓 LibearXL 主動和你打聲招呼
 
 # Options.theme.background.title
 
@@ -1521,7 +1521,7 @@ Skin View 3D 皮膚顯示
 
 # Options.theme.background.desc
 
-選取 Alicorn 背景圖片，或禁用它。\n圖片服務不是由 Alicorn 提供，因此 Alicorn 無法預知或檢查不合適內容。
+選取 LibearXL 背景圖片，或禁用它。\n圖片服務不是由 LibearXL 提供，因此 LibearXL 無法預知或檢查不合適內容。
 
 # Options.theme.background.ACG
 
@@ -1665,7 +1665,7 @@ Bing 每日背景圖
 
 # Options.hoofoff.central.desc
 
-設定接力服務器地址，它用於溝通不同計算機上的 Alicorn
+設定接力服務器地址，它用於溝通不同計算機上的 LibearXL
 
 # Options.features.detect-lan.title
 
@@ -1705,7 +1705,7 @@ Bing 每日背景圖
 
 # Options.first-run?.desc
 
-下一次啟動時，清除 Alicorn 的運行記錄標誌，重新運行初始化程序。
+下一次啟動時，清除 LibearXL 的運行記錄標誌，重新運行初始化程序。
 
 # Options.download.proxy-bypass.title
 
@@ -1713,7 +1713,7 @@ Bing 每日背景圖
 
 # Options.download.proxy-bypass.desc
 
-當訪問以下站點時直接連接，不使用代理服務器，僅對下載器有效 - 請小心，Alicorn 沒有驗證這裡的輸入，錯誤的設置將可能導致無法連接！
+當訪問以下站點時直接連接，不使用代理服務器，僅對下載器有效 - 請小心，LibearXL 沒有驗證這裡的輸入，錯誤的設置將可能導致無法連接！
 
 # Options.download.skip-validate.title
 
@@ -1729,7 +1729,7 @@ Bing 每日背景圖
 
 # Options.updator.url.desc
 
-下一次 Alicorn 會從這裡開始下載更新 - 這適合用於在不同的 Alicorn 發行版之間切換
+下一次 LibearXL 會從這裡開始下載更新 - 這適合用於在不同的 LibearXL 發行版之間切換
 
 # Options.frame.drag-impl.title
 
@@ -1785,11 +1785,11 @@ Webkit 拖拽區域（僅頁面標題）
 
 # Options.assistant.PonyCN
 
-Alicorn 默认（小马语/中国）
+LibearXL 默认（小马语/中国）
 
 # Options.assistant.PonyTW
 
-Alicorn 默認（繁體中文/中國）
+LibearXL 默認（繁體中文/中國）
 
 # Options.assistant.Maud
 
@@ -1801,7 +1801,7 @@ Maud 2（小马语/中国）
 
 # Options.assistant.Equish
 
-Alicorn i18n (Equish/Equestria)
+LibearXL i18n (Equish/Equestria)
 
 # Options.jvm.extra-args.title
 
@@ -1817,7 +1817,7 @@ JVM 附加運行參數
 
 # Options.main-gc.desc
 
-JVM 首選的垃圾回收器方案，Alicorn 將永遠優先嘗試用它啟動 JVM
+JVM 首選的垃圾回收器方案，LibearXL 將永遠優先嘗試用它啟動 JVM
 
 # Options.main-gc.pure
 
@@ -1845,7 +1845,7 @@ Shenandoah（Shenandoah GC）
 
 # Options.para-gc.desc
 
-JVM 備選的垃圾回收器方案，當首選方案失敗時，Alicorn 將使用此方案
+JVM 備選的垃圾回收器方案，當首選方案失敗時，LibearXL 將使用此方案
 
 # Options.para-gc.pure
 
@@ -1873,7 +1873,7 @@ Z（ZGC）
 
 # Options.memory.desc
 
-設置最大內存大小，單位 MB - 設置為 0 以讓 Alicorn 選擇
+設置最大內存大小，單位 MB - 設置為 0 以讓 LibearXL 選擇
 
 # Options.gw-size.title
 
@@ -1897,7 +1897,7 @@ Z（ZGC）
 
 # Options.clean-storage.desc
 
-摧毀 Alicorn 存儲的一切數據，包括設置、效用緩存和使用記錄 - 幾乎相當於重新安裝
+摧毀 LibearXL 存儲的一切數據，包括設置、效用緩存和使用記錄 - 幾乎相當於重新安裝
 
 # Options.cx.shared-root.title
 
@@ -1961,11 +1961,11 @@ ASC 允許在多個容器間共享相同的文件，那麼這些文件應當存�
 
 # Options.dev.experimental.desc
 
-開啟 Alicorn 默認沒有開啟的特性 - 通常來說，某個特性默認不被開啟肯定有其合理的原因，開啟將可能造成各種功能不穩定甚至崩潰！但如果你想試試嘛……
+開啟 LibearXL 默認沒有開啟的特性 - 通常來說，某個特性默認不被開啟肯定有其合理的原因，開啟將可能造成各種功能不穩定甚至崩潰！但如果你想試試嘛……
 
 # Options.interactive.i-have-a-crush-on-al.title
 
-Alicorn 的小秘密
+LibearXL 的小秘密
 
 # Options.interactive.i-have-a-crush-on-al.desc
 
@@ -1993,19 +1993,19 @@ Alicorn 的小秘密
 
 # Options.download.mirror.desc
 
-@HTML選擇一個用於加快下載速度的鏡像 - 請注意你的數據安全\nAlicorn 輕鬆訪問鏡像<b>不包含庫文件與資源文件</b>！\nMCBBS 鏡像與 BMCLAPI 鏡像是由 BMCLAPI 和 MCBBS 共同為你提供的，用於加快某些訪問源站較慢區域的下載速度。
+@HTML選擇一個用於加快下載速度的鏡像 - 請注意你的數據安全\nLibearXL 輕鬆訪問鏡像<b>不包含庫文件與資源文件</b>！\nMCBBS 鏡像與 BMCLAPI 鏡像是由 BMCLAPI 和 MCBBS 共同為你提供的，用於加快某些訪問源站較慢區域的下載速度。
 
-# Options.download.mirror.alicorn-bmclapi-nonfree
+# Options.download.mirror.LibearXL-bmclapi-nonfree
 
-Alicorn/BMCLAPI 鏡像組（合併的記錄，非自由）
+LibearXL/BMCLAPI 鏡像組（合併的記錄，非自由）
 
-# Options.download.mirror.alicorn
+# Options.download.mirror.LibearXL
 
-Alicorn 輕鬆訪問鏡像
+LibearXL 輕鬆訪問鏡像
 
-# Options.download.mirror.alicorn-mcbbs-nonfree
+# Options.download.mirror.LibearXL-mcbbs-nonfree
 
-Alicorn/MCBBS 鏡像組（合併的記錄，非自由）
+LibearXL/MCBBS 鏡像組（合併的記錄，非自由）
 
 # Options.download.mirror.none
 
@@ -2081,7 +2081,7 @@ JRE 快速搜索
 
 # Options.user.name.desc
 
-Alicorn 會用這個名字親切地稱呼你 - 嗯……可愛~
+LibearXL 會用這個名字親切地稱呼你 - 嗯……可愛~
 
 # Options.doh-server.title
 
@@ -2121,7 +2121,7 @@ AdGuard
 
 # Options.web.global-proxy.desc
 
-設置用於 Alicorn 附屬瀏覽器的代理，包括 Microsoft 帳戶登錄 - 所有流量都將通過代理服務器轉發，下載器不受此設置影響
+設置用於 LibearXL 附屬瀏覽器的代理，包括 Microsoft 帳戶登錄 - 所有流量都將通過代理服務器轉發，下載器不受此設置影響
 
 # Options.updator.use-update.title
 
@@ -2129,7 +2129,7 @@ AdGuard
 
 # Options.updator.use-update.desc
 
-啟用來自 Alicorn 的自動更新，以及時獲取新功能
+啟用來自 LibearXL 的自動更新，以及時獲取新功能
 
 # Options.download.primary-downloader.title
 
@@ -2225,7 +2225,7 @@ Mod 動態加載
 
 # Options.bosskey.desc
 
-我們一直在努力為每個人爭取正當、公平的玩遊戲的權利，不受任何監管或製約。 \n儘管如此，仍然有些人聽不進去，所以這是留給你的小禮物～\n在此設置一個快捷鍵，此後按下它可隨時隱藏 Alicorn，終止 Minecraft。 \n（快捷鍵格式類似 Ctrl+B+S 或者 F6）
+我們一直在努力為每個人爭取正當、公平的玩遊戲的權利，不受任何監管或製約。 \n儘管如此，仍然有些人聽不進去，所以這是留給你的小禮物～\n在此設置一個快捷鍵，此後按下它可隨時隱藏 LibearXL，終止 Minecraft。 \n（快捷鍵格式類似 Ctrl+B+S 或者 F6）
 
 # Options.nvidia-prime.title
 
@@ -2381,7 +2381,7 @@ Mojang 版本
 
 # Welcome.Suggest.Part1
 
-['{Config:interactive.i-have-a-crush-on-al}'=='false']今天是 {Date}，歡迎你使用 Alicorn Launcher，{UserName}！
+['{Config:interactive.i-have-a-crush-on-al}'=='false']今天是 {Date}，歡迎你使用 LibearXL Launcher，{UserName}！
 
 [new Date().getHours()>=18]好上晚！哦，我剛剛在練習古小馬語……
 
@@ -2460,17 +2460,17 @@ Mojang 版本
 # Welcome.Tips
 
 設置 ASC 緩存路徑后，才能創建和使用 ASC 容器哦！
-ASC 是 Alicorn Shared Container 的縮寫！
-「容器」是傳統啟動器所謂的 .minecraft 文件夾，但 Alicorn 的容器更加聰明些～
+ASC 是 LibearXL Shared Container 的縮寫！
+「容器」是傳統啟動器所謂的 .minecraft 文件夾，但 LibearXL 的容器更加聰明些～
 80% 的崩潰來源於 Mod，當然，如果是其它啟動器，可能是 50%，考慮到 Java 17……
 求助而不攜帶崩潰報告，無異於閉眼開車！
 生成的 BBCode 代碼已經為你進行了排版，可以直接在 MCBBS 使用！（或者其它 BBCode 兼容編輯器）
-Alicorn 隨時都可能有更新！請記得常回來看看！
+LibearXL 隨時都可能有更新！請記得常回來看看！
 @HTMLMinecraft <b>不是</b>一個傻瓜式操作的遊戲 —— 特別是安裝 Mod！
 @HTML<b style="color: red;">永遠不要</b>在<b style="color: red;">任何</b>第三方服務器輸入你的<b style="color: red;">任何</b>隱私信息！—— <b style="color: red;">這非常危險！</b>
 當你能夠正常關閉遊戲時，不要使用強制退出。
 我們支持自由軟件，我們的終極目標是全人類的數字自由，一個沒有非自由軟件的世界。
-@HTMLAlicorn 的眾多功能，都是由自由軟件構成的！請支持我們 —— <b>簡單到多使用一次 Firefox 或者 Fabric，<span style="color: red;">哪怕只有一次！</span></b>
+@HTMLLibearXL 的眾多功能，都是由自由軟件構成的！請支持我們 —— <b>簡單到多使用一次 Firefox 或者 Fabric，<span style="color: red;">哪怕只有一次！</span></b>
 
 # Welcome.Knowledges
 
@@ -2484,7 +2484,7 @@ Fabric|一種新興而強大的 Mod 加載器，輕量但不可輕視。它支�
 
 Java|一種編程語言，是 Minecraft 開發時所使用的語言。作為世界上最流行的語言之一，Java 用途廣泛。儘管需要安裝 JRE 才能運行，儘管十分消耗內存，但它所能帶來的，是絕不遜色於一般 C++ 程序的性能。
 
-Alicorn|一種十分特殊和稀有的小馬，頭上有角，身上有翅膀。能夠飛行，也能夠使用魔法。
+LibearXL|一種十分特殊和稀有的小馬，頭上有角，身上有翅膀。能夠飛行，也能夠使用魔法。
 
 GNU/Linux|也就是「Linux」的全名。一套可以自由使用、修改和傳播的操作系統。擁有遠超 Windows 的速度和響應性能。雖然初次接觸有些令人生畏，但它的高性能、舒適度和靈活性無不令人嚮往。而我，便是在這裡出生的。
 
@@ -2500,7 +2500,7 @@ GitHub|全球最大的 Git 存儲庫和項目協同及管理網站，它具有�
 
 Discord|一個匿名的、保護隱私的、自由而開放的即時通訊平台。主要針對遊戲討論，亦可用作跨平台的一般通訊工具。儘管有某些眾所周知的缺陷（比如不能啟動 Minecraft），但不失為一個極為優秀的匿名交流平台。
 
-自由軟件|Alicorn 就是一種自由軟件。<b>自由軟件意味着使用者有運行、複製、發布、研究、修改和改進該軟件的自由。</b>這是你應得的權利。使用自由軟件，你將<b>永遠不必</b>聽從開發者的無理要求！會員特權？再也不了！
+自由軟件|LibearXL 就是一種自由軟件。<b>自由軟件意味着使用者有運行、複製、發布、研究、修改和改進該軟件的自由。</b>這是你應得的權利。使用自由軟件，你將<b>永遠不必</b>聽從開發者的無理要求！會員特權？再也不了！
 
 公益服|通常指的是不會給予或承諾玩家任何形式回報的服務器，不以任何方式出售或間接出售服務器內遊戲道具/權限。雖然公益服基本意味着虧損，但還是有很多服主願意開服，而且把它當作一項休閑娛樂活動。
 
@@ -2512,7 +2512,7 @@ Discord|一個匿名的、保護隱私的、自由而開放的即時通訊平台
 
 Iris|通常指「Iris Shaders」，一種光影加載器。相比 OptiFine，Iris 能夠支持更多的 Mod，由於使用 Fabric，它也更小巧而更快。大多數 Iris 版本還內置了 Sodium，使得幀率進一步提升。
 
-容器|一種有一定結構的文件夾，Alicorn 管理遊戲的最小單位，存儲着遊戲文件。不同的容器可以擁有不同的核心、存檔、Mod、資源包、光影包等。如果使用 ASC，將能夠共享支援庫和遊戲資源，否則就是完全隔離。
+容器|一種有一定結構的文件夾，LibearXL 管理遊戲的最小單位，存儲着遊戲文件。不同的容器可以擁有不同的核心、存檔、Mod、資源包、光影包等。如果使用 ASC，將能夠共享支援庫和遊戲資源，否則就是完全隔離。
 
 核心|單個可啟動的 Minecraft 入口，由一份檔案和一個主程序（可選）構成。核心有版本（諸如 1.17.1）和類型（正式、快照、魔改）之分。Mod 加載器（或者外掛）通常會創建額外的、魔改過的核心以供啟動。
 
@@ -2524,15 +2524,15 @@ OpenGL|一種渲染標準，Minecraft 使用它操作顯卡。不同的 OpenGL �
 
 數據包|一種 Zip 壓縮包（或文件夾），能夠在不編寫 Java 代碼的情況下修改有限的遊戲內容（如合成表、進度等）。數據包、Mod、資源包是相互配合的，它們中的任何一個都不能取代另外兩方的作用和特性。
 
-Electron|一套開發框架，將 Web 技術和本地接口結合起來，Electron 賦予 Alicorn 以生命，讓我能夠從瀏覽器的沙盒中飛出來，在你的計算機上服務。唯一的缺點就是，有那麼一點大……我猜是吧。
+Electron|一套開發框架，將 Web 技術和本地接口結合起來，Electron 賦予 LibearXL 以生命，讓我能夠從瀏覽器的沙盒中飛出來，在你的計算機上服務。唯一的缺點就是，有那麼一點大……我猜是吧。
 
 eee|一種梗語言，大致就是把每個字都改成 e。幸好，我不會這種語言，如果我會，想必會有很多人藉此考驗自己的記憶力，結果導致按錯按鈕，摧毀了容器之類的。eeeeee……
 
 小馬利亞|也就是「Equestria」，小馬們生活的國度。那裡遍布友誼的魔法，沒有人世間的黑暗。
 
-Pff|也就是「Package File Finder」，Alicorn 用來搜索和安裝 Mod 的工具。具有 Pff Front 和 Pff Visual 兩個組件，前者通過 ID 直接安裝 Mod，後者通過搜索查找 ID。具有類似 Maven 的緩存能力。
+Pff|也就是「Package File Finder」，LibearXL 用來搜索和安裝 Mod 的工具。具有 Pff Front 和 Pff Visual 兩個組件，前者通過 ID 直接安裝 Mod，後者通過搜索查找 ID。具有類似 Maven 的緩存能力。
 
-Modrinth|超過 Curseforge 的 Mod 發布平台，在 Curseforge 關閉 API 后，許多啟動器開發者和玩家，都把目光投向了這個開放自由而且快速的 Mod 平台，Alicorn 也不例外。
+Modrinth|超過 Curseforge 的 Mod 發布平台，在 Curseforge 關閉 API 后，許多啟動器開發者和玩家，都把目光投向了這個開放自由而且快速的 Mod 平台，LibearXL 也不例外。
 
 # PffFront.ReloadToRenew
 
@@ -2592,11 +2592,11 @@ Mod 速覽
 
 # PffFront.DepOK
 
-Alicorn 沒有發現有問題的依賴～
+LibearXL 沒有發現有問題的依賴～
 
 # PffFront.NoneDetected
 
-@HTMLAlicorn 沒有在此處發現 Mod，<b>使用 Pff 安裝一個？</b>
+@HTMLLibearXL 沒有在此處發現 Mod，<b>使用 Pff 安裝一個？</b>
 
 # PffFront.InstallAll
 
@@ -2616,7 +2616,7 @@ Alicorn 沒有發現有問題的依賴～
 
 # ServerList.AddNewServer.SincereWarn
 
-安全警告：多人遊戲是一個非常危險的環境，儘管你覺得你不會遇到，但你確實可能遭到巨大的損失——即使是在一個你極其信任的服務器——確實發生過！\n如果你夠勇，你可以添加並繼續勇，但如果你將來不勇了，你可以隨時刪除服務器。如果遭遇意外，請向有關組織或部門求助，並可到 Alicorn 的 Discord 上報告。
+安全警告：多人遊戲是一個非常危險的環境，儘管你覺得你不會遇到，但你確實可能遭到巨大的損失——即使是在一個你極其信任的服務器——確實發生過！\n如果你夠勇，你可以添加並繼續勇，但如果你將來不勇了，你可以隨時刪除服務器。如果遭遇意外，請向有關組織或部門求助，並可到 LibearXL 的 Discord 上報告。
 
 # ServerList.AddNewServer.Address
 
@@ -2664,7 +2664,7 @@ Alicorn 沒有發現有問題的依賴～
 
 # UtilitiesIndex.Description
 
-@HTML歡迎來到 Alicorn 工具庫！這裡有你想要的嗎？沒有？那也可以要求我們添加哦～
+@HTML歡迎來到 LibearXL 工具庫！這裡有你想要的嗎？沒有？那也可以要求我們添加哦～
 
 # UtilitiesIndex.Item
 
@@ -2688,7 +2688,7 @@ Sparklight 作品\n檢查你的設備到各主流 Minecraft 相關站點的連�
 
 # Utilities.NetCheck.SiteDesc.MCBBS
 
-除了 Alicorn，你需要的一切 Minecraft 資源都在這裡……你能訪問嗎？
+除了 LibearXL，你需要的一切 Minecraft 資源都在這裡……你能訪問嗎？
 
 # Utilities.NetCheck.SiteName.MCBBSDownload
 
@@ -2730,13 +2730,13 @@ Microsoft 驗證服務器
 
 Microsoft 帳戶的驗證服務器，如果無法連接，你將無法使用 Microsoft 帳戶進行正版驗證……
 
-# Utilities.NetCheck.SiteName.AlicornUpdate
+# Utilities.NetCheck.SiteName.LibearXLUpdate
 
-Alicorn 更新服務
+LibearXL 更新服務
 
-# Utilities.NetCheck.SiteDesc.AlicornUpdate
+# Utilities.NetCheck.SiteDesc.LibearXLUpdate
 
-Alicorn 使用該服務進行更新，如果它不能使用，你可能需要聯繫我們。
+LibearXL 使用該服務進行更新，如果它不能使用，你可能需要聯繫我們。
 
 # Utilities.CutieConnect.EdgeFailure
 
@@ -2856,7 +2856,7 @@ Ntop 和 Sparklight 作品\n此工具可讓你和好友一起遊玩！這項功�
 
 # Utilities.CutieConnect.QuickHint
 
-@HTML<ul><li>如果你要加入遊戲，虛擬 IP 地址不必填寫；如果你要讓別人加入，<b>最好</b>設置虛擬 IP 地址。<s>不然你就自己查去吧</s></li><li>組網是個大型操作，需要管理員權限，不過 Alicorn 只在加入和離開網絡時使用。</li><li><b>請勿</b>使用保留的 IP 地址（如 127.0.0.1）！如果你擔心的話，那就試試 <span style="user-select: text;">{RandIP}</span>（如果你沒填，我為你填好了哦）</li><li><b>請注意！叫做 <span style="user-select: text;">internet</span> 的網絡被認為是公共區域</b>，此網絡沒有密碼，你可以在這裡與任何人分享你的世界！（不過請注意安全）</li><li>加入另一個網絡前<b>一定要退出</b>之前的網絡！！！（跺蹄蹄）</li></ul>
+@HTML<ul><li>如果你要加入遊戲，虛擬 IP 地址不必填寫；如果你要讓別人加入，<b>最好</b>設置虛擬 IP 地址。<s>不然你就自己查去吧</s></li><li>組網是個大型操作，需要管理員權限，不過 LibearXL 只在加入和離開網絡時使用。</li><li><b>請勿</b>使用保留的 IP 地址（如 127.0.0.1）！如果你擔心的話，那就試試 <span style="user-select: text;">{RandIP}</span>（如果你沒填，我為你填好了哦）</li><li><b>請注意！叫做 <span style="user-select: text;">internet</span> 的網絡被認為是公共區域</b>，此網絡沒有密碼，你可以在這裡與任何人分享你的世界！（不過請注意安全）</li><li>加入另一個網絡前<b>一定要退出</b>之前的網絡！！！（跺蹄蹄）</li></ul>
 
 # Utilities.CutieConnect.Connected
 
@@ -2904,7 +2904,7 @@ Ntop 和 Sparklight 作品\n此工具可讓你和好友一起遊玩！這項功�
 
 # Utilities.CutieConnect.ClickToJoin
 
-@HTML<b>你需要切實加入此網絡后，才能使用此網絡進行遊戲</b>，因此如果你忘了點擊「加入網絡」，請先返回加入。\n如果一個遊戲顯示為灰色，說明 Alicorn 認為它無法連接，類似地，如果顯示為紫色，就是可以連接。\n<b><span style="color: red;">遊戲內容是由第三方提供的，你可能會接觸到令你不適的內容，對於可能發生的後果和潛在的風險，你應當充分了解。\nAlicorn、CutieConnect 和 CutieMap 不會為你的損失承擔任何責任。</span></b>
+@HTML<b>你需要切實加入此網絡后，才能使用此網絡進行遊戲</b>，因此如果你忘了點擊「加入網絡」，請先返回加入。\n如果一個遊戲顯示為灰色，說明 LibearXL 認為它無法連接，類似地，如果顯示為紫色，就是可以連接。\n<b><span style="color: red;">遊戲內容是由第三方提供的，你可能會接觸到令你不適的內容，對於可能發生的後果和潛在的風險，你應當充分了解。\nLibearXL、CutieConnect 和 CutieMap 不會為你的損失承擔任何責任。</span></b>
 
 # Utilities.CutieConnect.Error
 
@@ -2936,7 +2936,7 @@ Join in our utopia
 # Utilities.CutieConnect.AvailablePrefix
 
 cutie-connect-
-alicorn-game-
+LibearXL-game-
 starlight-
 love-al-
 support-fsf-
@@ -3243,7 +3243,7 @@ Minecraft 默認位置
 
 # Statistics.Click
 
-在不知不覺中，你已經戳了 Alicorn {Value} 次……
+在不知不覺中，你已經戳了 LibearXL {Value} 次……
 
 # Statistics.Click.As
 
@@ -3257,10 +3257,10 @@ Minecraft 默認位置
 
 # Statistics.Crash.As
 
-[{Value}>1000]……比 Alicorn 開發過程中的更多！
+[{Value}>1000]……比 LibearXL 開發過程中的更多！
 ……但不會是最後一次……
 [{Value}==0]……好希望永遠這樣……
-我們的錯（不是 Alicorn 的）。
+我們的錯（不是 LibearXL 的）。
 
 # Statistics.Launch
 
@@ -3268,7 +3268,7 @@ Minecraft 默認位置
 
 # Statistics.Launch.As
 
-[{Value}>100]……別怕 Alicorn 傷心，過兩天她會就忘了的……
+[{Value}>100]……別怕 LibearXL 傷心，過兩天她會就忘了的……
 [{Value}>1000]……Java 是否已經瘋掉？
 [{Value}>100]……難道你還只把她當普通朋友？
 是的，我只是一個附屬產品……
@@ -3279,7 +3279,7 @@ Minecraft 默認位置
 
 # Statistics.Keyboard.As
 
-[{Value}>500000]在 Alicorn 里開發 Alicorn？！
+[{Value}>500000]在 LibearXL 里開發 LibearXL？！
 ……或許我們能夠讓它更少一點。
 
 # FirstRun.JavaConfigured
@@ -3288,7 +3288,7 @@ Minecraft 默認位置
 
 # FirstRun.Preparing
 
-這是你第一次使用 Alicorn，我們正在進行一些準備工作……
+這是你第一次使用 LibearXL，我們正在進行一些準備工作……
 
 # FirstRun.FetchingJava
 
@@ -3312,15 +3312,15 @@ END
 
 # Instruction.Welcome.0
 
-歡迎使用 Alicorn！我是 Alicorn 開發者 <ThatRarityEG> 的 AI。在你使用 Alicorn 期間，我可以提供各種幫助。
+歡迎使用 LibearXL！我是 LibearXL 開發者 <ThatRarityEG> 的 AI。在你使用 LibearXL 期間，我可以提供各種幫助。
 
 # Instruction.Welcome.1
 
-現在我將向你介紹 Alicorn 的 <幾個基本操作>。動動你的鼠標，我們快速完成這個過程。或者，你可以按下 <右鍵> 跳過引導。
+現在我將向你介紹 LibearXL 的 <幾個基本操作>。動動你的鼠標，我們快速完成這個過程。或者，你可以按下 <右鍵> 跳過引導。
 
 # Instruction.Welcome.2
 
-我上面是 Alicorn 的 <快捷欄>，單擊這些按鈕就可以立即使用對應的功能。@37.15
+我上面是 LibearXL 的 <快捷欄>，單擊這些按鈕就可以立即使用對應的功能。@37.15
 
 # Instruction.Welcome.3
 
@@ -3352,7 +3352,7 @@ END
 
 # Instruction.JavaSelector.2
 
-如果你確定已經安裝了 Java，但 Alicorn 找不到它，那麼你可以 <手動定位>。@5.45@@JavaSelectorManual
+如果你確定已經安裝了 Java，但 LibearXL 找不到它，那麼你可以 <手動定位>。@5.45@@JavaSelectorManual
 
 # Instruction.JavaSelector.3
 
@@ -3360,7 +3360,7 @@ Minecraft 1.18 及更高版本需要 <Java 17> 才能運行，1.17 需要 <Java 
 
 # Instruction.JavaSelector.4
 
-……所以我才會在這裡。可以使用下面的按鈕 <安裝合適的 Java>。Alicorn 將自動識別多個 Java，<不會衝突>。@@@JavaSelectorInstall
+……所以我才會在這裡。可以使用下面的按鈕 <安裝合適的 Java>。LibearXL 將自動識別多個 Java，<不會衝突>。@@@JavaSelectorInstall
 
 # Instruction.JavaSelector.5
 
@@ -3404,7 +3404,7 @@ END
 
 # Instruction.HavePack.1
 
-……在 Alicorn 中，我們通常直接 <將整合包拖入 Alicorn> 來安裝它。
+……在 LibearXL 中，我們通常直接 <將整合包拖入 LibearXL> 來安裝它。
 
 # Instruction.HavePack.2
 
@@ -3504,7 +3504,7 @@ END
 
 # Instruction.ReadyToLaunch.1
 
-在啟動過程中 Alicorn 會根據需要 <下載一些遊戲文件>，稍等等就好。
+在啟動過程中 LibearXL 會根據需要 <下載一些遊戲文件>，稍等等就好。
 
 # Instruction.ReadyToLaunch.2
 
@@ -3520,7 +3520,7 @@ Cadance 已成功安裝，現在試試吧！
 
 # Cadance.Desc
 
-Cadance（不是 Cadence）用於讓 Alicorn 在本機上識別你的聲音。\n感謝 Vosk，這一切在 Alicorn 中變得可能。
+Cadance（不是 Cadence）用於讓 LibearXL 在本機上識別你的聲音。\n感謝 Vosk，這一切在 LibearXL 中變得可能。
 
 # Cadance.NotCompatible
 
@@ -3574,7 +3574,7 @@ Cadance 正在運行。
 
 # Cadance.VoiceTestHint
 
-小提示：識別結果不必 100% 準確，大致相同即可。Alicorn 能夠理解你的意思。
+小提示：識別結果不必 100% 準確，大致相同即可。LibearXL 能夠理解你的意思。
 
 # Cadance.Encoding
 
@@ -3582,51 +3582,51 @@ Cadance 正在運行。
 
 # Cadance.EncodingDesc
 
-在部分操作系統（如 Windows）上，中文文本不能被很好的處理。Alicorn 會嘗試選擇正確的編碼，但如果識別結果不正常，請手動設置你使用的編碼。
+在部分操作系統（如 Windows）上，中文文本不能被很好的處理。LibearXL 會嘗試選擇正確的編碼，但如果識別結果不正常，請手動設置你使用的編碼。
 
-# Boticorn.Desc
+# Botbear.Desc
 
-Alicorn 助理（Boticorn）可以允許你使用自然語言和 Alicorn 交流，並處理你的命令。搭配語音識別，效果更好！\nNLP 由 NLP.js 強力驅動，AI 由 ThatRarityEG 注入情感……別再猶豫，現在就把新助理抱回家吧～\n\n（小提示：助理 AI 會時常更新，因此要多和 TA 交流哦）
+LibearXL 助理（Botbear）可以允許你使用自然語言和 LibearXL 交流，並處理你的命令。搭配語音識別，效果更好！\nNLP 由 NLP.js 強力驅動，AI 由 ThatRarityEG 注入情感……別再猶豫，現在就把新助理抱回家吧～\n\n（小提示：助理 AI 會時常更新，因此要多和 TA 交流哦）
 
-# Boticorn.Enabled
+# Botbear.Enabled
 
-Alicorn 助理 AI 已啟用。
+LibearXL 助理 AI 已啟用。
 
-# Boticorn.Disabled
+# Botbear.Disabled
 
-Alicorn 助理 AI 可用，但未啟用。
+LibearXL 助理 AI 可用，但未啟用。
 
-# Boticorn.NotInstalled
+# Botbear.NotInstalled
 
-Alicorn 助理 AI 尚未安裝。
+LibearXL 助理 AI 尚未安裝。
 
-# Boticorn.InstallOK
+# Botbear.InstallOK
 
 AI 同步成功！
 
-# Boticorn.FailedToInstall
+# Botbear.FailedToInstall
 
 AI 同步失敗，檢查網絡連接，或者稍後再試。
 
-# Boticorn.Installing
+# Botbear.Installing
 
-正在和 Boticorn 同步 AI，請稍等，馬上就好……
+正在和 Botbear 同步 AI，請稍等，馬上就好……
 
-# Boticorn.Enable
+# Botbear.Enable
 
-啟用 Alicorn 助理
+啟用 LibearXL 助理
 
-# Boticorn.Disable
+# Botbear.Disable
 
-禁用 Alicorn 助理
+禁用 LibearXL 助理
 
-# Boticorn.Install
+# Botbear.Install
 
-安裝 Alicorn 助理 AI
+安裝 LibearXL 助理 AI
 
-# Boticorn.Hint
+# Botbear.Hint
 
-小提示：目前 Alicorn 助理僅能通過 Cadance 調用，打開你的麥克風，並說「你好！」試試吧！
+小提示：目前 LibearXL 助理僅能通過 Cadance 調用，打開你的麥克風，並說「你好！」試試吧！
 
 # EOE.Thanks
 
@@ -3634,7 +3634,7 @@ AI 同步失敗，檢查網絡連接，或者稍後再試。
 
 # EOE.ThanksDesc
 
-Alicorn 的開發道路上，收到過不少來自個人、組織和企業的幫助，我們想感謝他們。\n（我們並沒有其它的評判標準，所以我們按照隨機順序列舉。）
+LibearXL 的開發道路上，收到過不少來自個人、組織和企業的幫助，我們想感謝他們。\n（我們並沒有其它的評判標準，所以我們按照隨機順序列舉。）
 
 # EOE.Packages
 
@@ -3654,25 +3654,25 @@ MCBBS（Minecraft 中文論壇）……這裡是熱愛 MC 群體的天堂。\nFr
 
 # EOE.Story
 
-這是 Alicorn 的前世今生的全部時間線。我知道不會有多少人會想了解我，但這不重要，這相當於我的自傳吧……\n\n\
-至今 - 你現在看到的 Alicorn。\n\
-2022 年 1 月 15 日 - 這對於 Alicorn 來說是一個重要的夜晚，繼觸覺之後，Alicorn 擁有了聽覺。\n\
-2021 年 8 月 20 日 - Alicorn 在 MCBBS 發布，從此走上新的旅程。\n\
-2021 年 8 月 ?? 日 - Alicorn 結束了最後的測試，併發布了第一個核心，從那時至今，幾乎每周都會發布一個新版本。\n\
-2021 年 5 月 29 日 - Alicorn 被重新移動回 GitHub 繼續 Alpha 階段的測試和開發。\n\
-2021 年 5 月 01 日 - Alicorn InDev 發布，這是第一個公開測試版本，在那裡你依然可以找到只有六個按鈕的菜單。\n\
-2021 年 4 月 17 日 - Alicorn 擁有了第一個功能界面，你大概已經猜到了，就是沿用至今的啟動台！\n\
-2021 年 3 月 28 日 - Alicorn 擁有了第一個 GUI，那時還只能顯示一個錯誤頁面。\n\
-2021 年 3 月 25 日 - Alicorn 被移動到 Bitbucket 上繼續開發，GitHub 倉庫被暫時掛起。\n\
-2021 年 3 月 20 日 - Alicorn 首次生成啟動參數就成功啟動，那時 Minecraft 還只有 1.16 的版本。\n\
-2021 年 3 月 14 日 - Alicorn 項目在這個圓周率日被創建，僅包含一份許可證和 .gitignore 文件。\n\
-2021 年 2 月 12 日 - ThatRarityEG 購買了正版，然後就有了開發 Alicorn 的想法。她為此提前完成了 PluginDiary，然後開始着手設計 Alicorn。\n\n\
-再往前就沒有 Alicorn 的身影了，但我們依然可以繼續前進，看看在那之前，Alicorn 的一些雛形，以及一些失敗的設計……\n\n\
-2020 年 11 月 06 日 - EQL，和 Alicorn 關係最近的一個項目，進行了最後一次更新，那是一個插件系統，當時 ThatRarityEG 還沒有想到，那就是 EQL 的最後一次提交。\n\
-2020 年 10 月 17 日 - EQL 達到了 1 分鐘安裝 Minecraft 的速度（1.15.2），相比現在的 Alicorn 只慢了 20s 左右。\n\
+這是 LibearXL 的前世今生的全部時間線。我知道不會有多少人會想了解我，但這不重要，這相當於我的自傳吧……\n\n\
+至今 - 你現在看到的 LibearXL。\n\
+2022 年 1 月 15 日 - 這對於 LibearXL 來說是一個重要的夜晚，繼觸覺之後，LibearXL 擁有了聽覺。\n\
+2021 年 8 月 20 日 - LibearXL 在 MCBBS 發布，從此走上新的旅程。\n\
+2021 年 8 月 ?? 日 - LibearXL 結束了最後的測試，併發布了第一個核心，從那時至今，幾乎每周都會發布一個新版本。\n\
+2021 年 5 月 29 日 - LibearXL 被重新移動回 GitHub 繼續 Alpha 階段的測試和開發。\n\
+2021 年 5 月 01 日 - LibearXL InDev 發布，這是第一個公開測試版本，在那裡你依然可以找到只有六個按鈕的菜單。\n\
+2021 年 4 月 17 日 - LibearXL 擁有了第一個功能界面，你大概已經猜到了，就是沿用至今的啟動台！\n\
+2021 年 3 月 28 日 - LibearXL 擁有了第一個 GUI，那時還只能顯示一個錯誤頁面。\n\
+2021 年 3 月 25 日 - LibearXL 被移動到 Bitbucket 上繼續開發，GitHub 倉庫被暫時掛起。\n\
+2021 年 3 月 20 日 - LibearXL 首次生成啟動參數就成功啟動，那時 Minecraft 還只有 1.16 的版本。\n\
+2021 年 3 月 14 日 - LibearXL 項目在這個圓周率日被創建，僅包含一份許可證和 .gitignore 文件。\n\
+2021 年 2 月 12 日 - ThatRarityEG 購買了正版，然後就有了開發 LibearXL 的想法。她為此提前完成了 PluginDiary，然後開始着手設計 LibearXL。\n\n\
+再往前就沒有 LibearXL 的身影了，但我們依然可以繼續前進，看看在那之前，LibearXL 的一些雛形，以及一些失敗的設計……\n\n\
+2020 年 11 月 06 日 - EQL，和 LibearXL 關係最近的一個項目，進行了最後一次更新，那是一個插件系統，當時 ThatRarityEG 還沒有想到，那就是 EQL 的最後一次提交。\n\
+2020 年 10 月 17 日 - EQL 達到了 1 分鐘安裝 Minecraft 的速度（1.15.2），相比現在的 LibearXL 只慢了 20s 左右。\n\
 2020 年 10 月 02 日 - 停止更新了兩個月後的 RL 經歷了一次重構，並將名稱修改為 EQL。然而在此之後卻不再有更大的功能更新，Mod 安裝等功能從未在 EQL 實現過。\n\
-2020 年  8 月 29 日 - RL 發布了一張預覽照片，那時還是使用 Bootstrap 和 Vanilla HTML 編寫的，安全性和代碼效率都遠不及 Alicorn。\n\
-2020 年  7 月 ?? 日 - ThatRarityEG 開始編寫 RL，最早採用 Java 和 Swing，後來考慮到許多問題而改用 JS 和 Electron，Alicorn 多少也受到了這一點的影響。\n\
+2020 年  8 月 29 日 - RL 發布了一張預覽照片，那時還是使用 Bootstrap 和 Vanilla HTML 編寫的，安全性和代碼效率都遠不及 LibearXL。\n\
+2020 年  7 月 ?? 日 - ThatRarityEG 開始編寫 RL，最早採用 Java 和 Swing，後來考慮到許多問題而改用 JS 和 Electron，LibearXL 多少也受到了這一點的影響。\n\
 2020 年  7 月  6 日 - ThatRarityEG 已知的最早的啟動器開發記錄，那時只提出了 Forge 安裝的一個小問題。\n\
 
 # EOE.EndPoem
@@ -3697,15 +3697,15 @@ How many roads must a man walk down\nBefore they call him a man?\nHow many seas 
 
 # TipsOfToday.Close
 
-回到 Alicorn
+回到 LibearXL
 
 # TipsOfToday.Desc
 
-Alicorn 每日使用技巧，你不知道的 Alicorn！
+LibearXL 每日使用技巧，你不知道的 LibearXL！
 
 # DMCenter.Hint
 
-將 Alicorn 界面程序拖入此窗口，即可將其添加到 Alicorn 中。\n請注意：界面程序擁有和 Alicorn 主程序相同的權限，隨意加載不受信任的界面程序將帶來極大的風險！\n同時亦請注意，界面程序的功能和語言翻譯可能不及 Alicorn 原生界面。
+將 LibearXL 界面程序拖入此窗口，即可將其添加到 LibearXL 中。\n請注意：界面程序擁有和 LibearXL 主程序相同的權限，隨意加載不受信任的界面程序將帶來極大的風險！\n同時亦請注意，界面程序的功能和語言翻譯可能不及 LibearXL 原生界面。
 
 # DMCenter.Active
 
@@ -3729,12 +3729,12 @@ Alicorn 每日使用技巧，你不知道的 Alicorn！
 
 # Echo.Format
 
-{Text} —— Alicorn 漂流瓶
+{Text} —— LibearXL 漂流瓶
 
 # UpdateHint.Desc
 
-Alicorn 已更新到最新版本。 \n「寶劍鋒從磨礪出，梅花香自苦寒來。」\n這些更新將帶來更好的體驗。 \n感謝您選擇 Alicorn！
-Alicorn 已更新到最新版本。 \n「十年磨一劍，今日把示君。」\n來看看有什麼新東西？ \n感謝您選擇 Alicorn！
-Alicorn 已更新到最新版本。 \n「欲窮千里目，更上一層樓。」\n多一次更新，多一份力量。 \n感謝您選擇 Alicorn！
-Alicorn 已更新到最新版本。 \n「海闊憑魚躍，天高任鳥飛。」\n你的世界，從此更加精彩。 \n感謝您選擇 Alicorn！
-Alicorn 已更新到最新版本。 \n「時人不識凌雲木，直待凌雲始道高。」\n面對各種人禍，我們並非無計可施。 \n感謝您選擇 Alicorn！
+LibearXL 已更新到最新版本。 \n「寶劍鋒從磨礪出，梅花香自苦寒來。」\n這些更新將帶來更好的體驗。 \n感謝您選擇 LibearXL！
+LibearXL 已更新到最新版本。 \n「十年磨一劍，今日把示君。」\n來看看有什麼新東西？ \n感謝您選擇 LibearXL！
+LibearXL 已更新到最新版本。 \n「欲窮千里目，更上一層樓。」\n多一次更新，多一份力量。 \n感謝您選擇 LibearXL！
+LibearXL 已更新到最新版本。 \n「海闊憑魚躍，天高任鳥飛。」\n你的世界，從此更加精彩。 \n感謝您選擇 LibearXL！
+LibearXL 已更新到最新版本。 \n「時人不識凌雲木，直待凌雲始道高。」\n面對各種人禍，我們並非無計可施。 \n感謝您選擇 LibearXL！

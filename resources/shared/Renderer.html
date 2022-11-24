@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Alicorn</title>
+    <title>LibearXL</title>
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
@@ -75,10 +75,10 @@
       onclick="this.style.display='none'"
     >
       <p>
-        Alicorn Renderer (JE) has been loaded, and it's initializing.<br />
+        LibearXL Renderer (JE) has been loaded, and it's initializing.<br />
         If this text won't disappear in a few seconds, considering fix or
-        reinstall Alicorn. <br />
-        Or click to hide me if Alicorn runs well.
+        reinstall LibearXL. <br />
+        Or click to hide me if LibearXL runs well.
       </p>
       <h3 id="boot_1">Boot Stage 1: Renderer First Show...</h3>
       <h3 id="boot_2">Boot Stage 2: Renderer Script Load...</h3>
@@ -101,7 +101,7 @@
       style="font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace"
     ></p>
     <script>
-      if (process.env.ALICORN_REACT_DEVTOOLS) {
+      if (process.env.LibearXL_REACT_DEVTOOLS) {
         let { ipcRenderer } = require("electron");
         if (ipcRenderer.sendSync("askInject")) {
           let dev = document.createElement("script");
